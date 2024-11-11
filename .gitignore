@@ -1,0 +1,46 @@
+# Gradle files
+.gradle/
+build/
+*/build/
+!*/src/**/build/
+
+# Local configuration file (local.properties)
+local.properties
+
+# Android Studio specific
+.idea/
+*.iml
+*.hprof
+
+# User-specific files
+*.user
+*.sublime-workspace
+*.sublime-project
+
+# Logs
+*.log
+
+# Miscellaneous
+*.apk
+*.ap_
+*.dex
+*.class
+*.jar
+*.war
+*.so
+*.o
+
+# Native files
+*.c
+*.cpp
+*.h
+
+# Backup files
+*~
+*.bak
+*.swp
+*.swm
+
+# OS specific files
+.DS_Store
+Thumbs.db

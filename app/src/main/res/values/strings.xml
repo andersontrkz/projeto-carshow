@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Carshow | Anderson Luiz</string>
+    <string name="imagem">Imagem</string>
+    <string name="localizacao">Localização:</string>
+    <string name="lat_loc">Lat: </string>
+    <string name="long_loc">Long: </string>
+    <string name="carshow">Carshow</string>
+    <string name="login">Login</string>
+    <string name="telefone">Telefone</string>
+    <string name="ddi">+55</string>
+    <string name="enviar_codigo">Enviar Código</string>
+    <string name="codigo">Código</string>
+    <string name="validar_codigo">Validar Código</string>
+    <string name="google_login">Login com Google</string>
+    <string name="url">URL</string>
+    <string name="salvar">Salvar</string>
+    <string name="deletar">Deletar</string>
+    <string name="foto">Foto</string>
+    <string name="placa">Placa</string>
+    <string name="ano">Ano</string>
+    <string name="modelo">Modelo</string>
+    <string name="operacao_sucesso">Operação realizada com sucesso!</string>
+    <string name="operacao_falha">Falha ao realizar a operação!</string>
+    <string name="permissao_negada">Permissão negada</string>
+    <string name="codigo_enviado">Código enviado</string>
+    <string name="login_invalido">Login inválido</string>
+    <string name="localizaco_indisponivel">Localização indisponível</string>
+    <string name="sair">Sair</string>
+    <string name="tem_certeza_que_deseja_realizar_esta_acao">Tem certeza que deseja realizar esta ação?</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+    <string name="voltar">Voltar</string>
+    <string name="fusca">Fusca</string>
+</resources>
