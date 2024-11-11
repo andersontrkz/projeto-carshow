@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/38f161ec-6c32-4092-9de4-325af7c4f3a0)
+
 # Exercício: Integração de Autenticação e API REST no Aplicativo Android
 
 Este projeto envolve a criação de uma tela de login com o Firebase, integração de uma API REST e a exibição de dados em um aplicativo Android. Siga as instruções abaixo para configurar e implementar as funcionalidades solicitadas.
